@@ -3,6 +3,7 @@ This is some examples in CS50 Tracks 2019 - Web - JavaScript.
 
 It is the lecture video.<br>
 <a href="https://www.youtube.com/watch?v=7NPcZSrcA5o&list=PLhQjrBD2T382xHP1dYqfF6kRqL7xBTQNJ">CS50 Tracks 2019 - Web - JavaScript</a>
+
 [CS50 Tracks 2019 - Web - JavaScript](https://www.youtube.com/watch?v=7NPcZSrcA5o&list=PLhQjrBD2T382xHP1dYqfF6kRqL7xBTQNJ)
 
 這是CS50 Tracks 2019 - Web - JavaScript這堂課程所展示的範例，<br>
