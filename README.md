@@ -8,7 +8,7 @@ It is the lecture video.
 這是CS50 Tracks 2019 - Web - JavaScript這堂課程所展示的範例，<br>
 我把所有範例練習一遍後，留下來的HTML & JavaScript檔。
 
-![](https://i.imgur.com/QyDtuog.png | width="400")
+![](https://i.imgur.com/QyDtuog.png | width=400)
 在CS50這堂課當中，說明了一個HTML檔案可以表示成一個樹(tree)的形式，<br>
 而這樣的概念稱為DOM，中文稱為文件物件模型，而這個概念也不是三言兩語<br>
 可以解釋完的，詳細可以參考以下資源：<br>
