@@ -10,6 +10,7 @@ It is the lecture video.<br>
 <img src="https://i.imgur.com/QyDtuog.png" width="600">
 在CS50這堂課當中，我覺得學習到一個蠻重要的觀念，說明了一個HTML檔案可以表示成一個樹(tree)的形式，<br>
 而這樣的概念稱為DOM，中文稱為文件物件模型，而這個概念也不是三言兩語可以解釋完的，詳細可以參考以下資源：<br>
+
 [深入理解網頁架構：DOM](https://ithelp.ithome.com.tw/articles/10202689)
 
 [JavaScript入門系列：BOM和DOM筆記](https://www.happycoding.today/posts/43)
