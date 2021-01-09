@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CS50-JS-09</title>
+	<script>
+		function blink()
+		{
+			let body = document.querySelector("body");
+			if (body.style.visibility === "hidden")
+			{
+				body.style.visibility = "visible";
+			}
+			else
+			{
+				body.style.visibility = "hidden";
+			}
+		}
+
+		window.setInterval(blink, 500);
+	</script>
+</head>
+<body>
+	Hello, World!
+</body>
+</html>
