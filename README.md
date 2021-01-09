@@ -6,7 +6,7 @@ It is the lecture video.<br>
 <br>
 這是CS50 Tracks 2019 - Web - JavaScript這堂課程所展示的範例，<br>
 我把所有範例練習一遍後，留下來的HTML & JavaScript檔。
-<img src="https://i.imgur.com/QyDtuog.png" width="600">
+<img src="https://i.imgur.com/QyDtuog.png" width="600"><br>
 在CS50這堂課當中，我覺得學習到一個蠻重要的觀念，說明了一個HTML檔案可以表示成一個樹(tree)的形式，<br>
 而這樣的概念稱為DOM，中文稱為文件物件模型，而這個概念也不是三言兩語可以解釋完的，詳細可以參考以下資源：<br>
 <a href="https://ithelp.ithome.com.tw/articles/10202689">深入理解網頁架構：DOM</a><br>
