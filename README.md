@@ -11,10 +11,8 @@ It is the lecture video.<br>
 在CS50這堂課當中，我覺得學習到一個蠻重要的觀念，說明了一個HTML檔案可以表示成一個樹(tree)的形式，<br>
 而這樣的概念稱為DOM，中文稱為文件物件模型，而這個概念也不是三言兩語可以解釋完的，詳細可以參考以下資源：<br>
 <a href="https://ithelp.ithome.com.tw/articles/10202689">深入理解網頁架構：DOM</a>
-[深入理解網頁架構：DOM](https://ithelp.ithome.com.tw/articles/10202689)
-
-[JavaScript入門系列：BOM和DOM筆記](https://www.happycoding.today/posts/43)
-
+<a href="https://www.happycoding.today/posts/43">JavaScript入門系列：BOM和DOM筆記</a>
+<br>
 然而，在學習使用JavaScript做網頁程式設計時，對於DOM的了解是相當重要的，JavaScript就是因為擁有操作DOM的功能，<br>
 才會被廣泛使用於網頁程式設計，在這個說法底下，其實就能夠深入了解，其實每個語言有不同優勢的地方，每個<br>
 語言應用的領域不同，所以時常會有文章討論「應該學哪個語言」，事實上一個語言的流行，背後的原因可能都源自於這個<br>
